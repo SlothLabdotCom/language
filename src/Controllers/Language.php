@@ -1,6 +1,6 @@
 <?php
 
-namespace Akaunting\Language\Controllers;
+namespace Slothlab\Language\Controllers;
 
 use Auth;
 use Illuminate\Http\Request;

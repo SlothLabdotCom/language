@@ -1,5 +1,5 @@
 {
-    "name": "SlothLabdotCom/language",
+    "name": "slothlabdotcom/language",
     "description": "Language switcher package for Laravel.",
     "keywords": [
         "laravel",
@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Akaunting\\Language\\": "./src"
+            "Slothlab\\Language\\": "./src"
         },
         "files": [
             "src/helpers.php"
@@ -37,10 +37,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Akaunting\\Language\\Provider"
+                "Slothlab\\Language\\Provider"
             ],
             "aliases": {
-                "Language": "Akaunting\\Language\\Facade"
+                "Language": "Slothlab\\Language\\Facade"
             }
         }
     }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Akaunting\Language\Middleware;
+namespace Slothlab\Language\Middleware;
 
 use Closure;
 use Jenssegers\Agent\Agent;

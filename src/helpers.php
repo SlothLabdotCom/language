@@ -4,7 +4,7 @@ if (!function_exists('language')) {
     /**
      * Get the language instance.
      *
-     * @return \Akaunting\Language\Language
+     * @return \Slothlab\Language\Language
      */
     function language()
     {

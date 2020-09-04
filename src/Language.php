@@ -1,6 +1,6 @@
 <?php
 
-namespace Akaunting\Language;
+namespace Slothlab\Language;
 
 use Illuminate\Support\Str;
 
