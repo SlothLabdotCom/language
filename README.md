@@ -1,3 +1,5 @@
+<p align="center"><img src="https://sloth-lab.com/ss-02.png" width="400"></p>
+
 # Language switcher package for Laravel
 
 [![Version](https://img.shields.io/packagist/v/akaunting/language?label=release)](https://github.com/akaunting/language/releases)
