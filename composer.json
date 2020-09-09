@@ -9,15 +9,15 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Denis Duliçi",
-            "email": "info@akaunting.com",
-            "homepage": "https://akaunting.com",
-            "role": "Developer"
-        },
-        {
             "name": "Baha Striker",
             "email": "baha@sloth-lab.com",
             "homepage": "https://sloth-lab.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Denis Duliçi",
+            "email": "info@akaunting.com",
+            "homepage": "https://akaunting.com",
             "role": "Developer"
         }
     ],
